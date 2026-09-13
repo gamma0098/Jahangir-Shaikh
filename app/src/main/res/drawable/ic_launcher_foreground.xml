@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Startup Rocket Body -->
+        <path
+            android:pathData="M54,23 C48,29 44,39 44,52 L64,52 C64,39 60,29 54,23 Z"
+            android:fillColor="#38BDF8" />
+        <!-- Rocket Nose Cone / Tip Accent -->
+        <path
+            android:pathData="M54,23 C51,26 49,30 48,34 L60,34 C59,30 57,26 54,23 Z"
+            android:fillColor="#FBBF24" />
+        <!-- Rocket Window / Core Idea Light -->
+        <path
+            android:pathData="M54,42m-4.5,0a4.5,4.5 0 1,0 9,0a4.5,4.5 0 1,0 -9,0"
+            android:fillColor="#0A1128" />
+        <path
+            android:pathData="M54,42m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+            android:fillColor="#34D399" />
+        <!-- Left & Right Fins -->
+        <path
+            android:pathData="M44,48 L35,55 C35,55 36,44 44,41 Z"
+            android:fillColor="#818CF8" />
+        <path
+            android:pathData="M64,48 L73,55 C73,55 72,44 64,41 Z"
+            android:fillColor="#818CF8" />
+        <!-- Rocket Exhaust Flame -->
+        <path
+            android:pathData="M50,52 L54,61 L58,52 Z"
+            android:fillColor="#F59E0B" />
+        <!-- Friendship & Investment Handshake / Connection Node (Lower Half) -->
+        <!-- Left Partner Arm / Hand -->
+        <path
+            android:pathData="M29,66 L39,66 L48,74 L44,78 L35,71 L29,71 Z"
+            android:fillColor="#10B981" />
+        <!-- Right Investor Arm / Hand -->
+        <path
+            android:pathData="M79,66 L69,66 L60,74 L64,78 L73,71 L79,71 Z"
+            android:fillColor="#FBBF24" />
+        <!-- Central Handshake Clasp -->
+        <path
+            android:pathData="M48,73 L54,68 L60,73 L54,78 Z"
+            android:fillColor="#FFFFFF" />
+        <!-- Friendly Heart / Value Seed in Palm -->
+        <path
+            android:pathData="M54,81 L52,79.5 C46,74.5 49,69 54,73 C59,69 62,74.5 56,79.5 Z"
+            android:fillColor="#EC4899" />
+    </group>
+</vector>
+

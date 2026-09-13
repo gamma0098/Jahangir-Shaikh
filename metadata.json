@@ -1,0 +1,6 @@
+{
+  "name": "Startup & Investor",
+  "description": "Connect founders and investors to share startup pitches, collaborate on ideas, provide mentorship, and build lasting friendships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
